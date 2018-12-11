@@ -127,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/aktionen/visa-kostliches-essen-gewinnspiel.html</loc>
+    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/aktionen/verwohnmomente-mit-treatwell-und-deliveroo.html</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2336,6 +2342,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/en/contact/</loc>
+    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/deliveroo-visa-gewinnspiel.html</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
