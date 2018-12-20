@@ -1093,7 +1093,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/esskultur/top-5-grill-gerichte-deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.de/esskultur/top-10-gerichte-weltweit-deliveroo.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2395,13 +2395,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/bbq.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/gerichte.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/grillsaison.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/deliveroo.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2509,6 +2509,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/bbq.html</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/grillsaison.html</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/picknick.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2516,12 +2528,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/deliveroo-bestellen.html</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/deliveroo.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5624,12 +5630,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/quesadillas.html</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/gerichte.html</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
