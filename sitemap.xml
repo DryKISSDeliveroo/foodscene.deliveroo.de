@@ -367,6 +367,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/food-trends/food-trend-levante-kuche.html</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/food-trends/fomo-ist-out-jomo-ist-in.html</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2485,6 +2491,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/food-trend.html</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/levante.html</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/cravings.html</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/snacks.html</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2498,12 +2522,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/serien.html</loc>
-    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/cravings.html</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
