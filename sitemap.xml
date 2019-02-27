@@ -595,6 +595,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/female-leader-womensday-brammibalsdonuts.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/restaurants/in-3-schritten-zum-perfekten-schnitzel.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -602,6 +608,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/restaurants/female-leader-womensday-goodbank.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/female-leader-womensday-chupenga.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2407,7 +2419,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/entrepreneurs.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/womensday.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2419,7 +2431,49 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/leadership.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/mexican.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/burrito.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/avocado.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/entrepreneurs.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/healthy-food.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/donuts.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/food.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3128,12 +3182,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/waffeln.html</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/burrito.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4015,12 +4063,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/avocado.html</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/restaurant.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4568,12 +4610,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/vegetarier.html</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/donuts.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6037,6 +6073,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/marie-serah-ebcinolgu.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/marie-serah-ebcinoglu.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6722,6 +6764,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/esskultur/page/27.html</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/marie-serah-ebcinoglu/page/2.html</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
