@@ -511,6 +511,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/die-5-besten-bowls-in-berlin.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/restaurants/sushi-restaurants-deliveroo-muenchen.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2425,6 +2431,84 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/bowls.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/bibimbap.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/ramen.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/poke.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/bulgogi.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/burrito.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/asiatisch.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/mexikanisch.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/koreanisch.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/hawaii.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/vegetarisch.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/gesund.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/burger.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2432,12 +2516,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/vegan.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/vegetarisch.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2515,12 +2593,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/mexikanisch.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/fruhling.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2528,12 +2600,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/party.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2576,12 +2642,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/mexican.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/burrito.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2630,12 +2690,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/healthy.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/gesund.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2798,12 +2852,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/bestellen.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/asiatisch.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3002,12 +3050,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/nudelsauce.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/koreanisch.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3224,12 +3266,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/kokosmilch.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/ramen.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5287,12 +5323,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/bowls.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/glutenfreie-pizza.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6001,12 +6031,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/bibimbap.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/unidays.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6055,13 +6079,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.de/restaurants.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/restaurants.html</loc>
+    <loc>https://foodscene.deliveroo.de/food-trends.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6145,31 +6169,49 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/burger/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/asiatisch/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/vegan/page/2.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/asiatisch/page/3.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/vegan/page/3.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/mexikanisch/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/vegan/page/4.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/vegan/page/5.html</loc>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/3.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/4.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/5.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/6.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6200,6 +6242,48 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/vegetarisch/page/6.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/gesund/page/2.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/gesund/page/3.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/burger/page/2.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/vegan/page/2.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/vegan/page/3.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/vegan/page/4.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/vegan/page/5.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6241,36 +6325,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/mexikanisch/page/2.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/2.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/3.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/4.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/5.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/munchen/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6295,18 +6349,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/gesund/page/2.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/gesund/page/3.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/pasta/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6320,12 +6362,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/superfood/page/2.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/asiatisch/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6601,6 +6637,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/page/2.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/page/3.html</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/food-trends/page/2.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6614,18 +6662,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/food-trends/page/4.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/restaurants/page/2.html</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/restaurants/page/3.html</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
