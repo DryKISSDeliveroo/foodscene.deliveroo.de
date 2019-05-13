@@ -2245,6 +2245,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/diese-5-sushi-restaurants-sind-eine-bestellung-wert.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/restaurants/7-restaurants-zum-fruehlingsanfang-hamburg.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2450,6 +2456,78 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/en/about/</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/sushi.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/maki.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/nigiri.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/sashimi.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/avocado.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/sake.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/ebi.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/insideoutrolls.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/koln.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/hamburg.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/miso.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2707,12 +2785,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/vegan.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2720,12 +2792,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/hummus.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/sushi.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2779,18 +2845,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/koln.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/hamburg.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/womensday.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2810,12 +2864,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/mexican.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/avocado.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4382,18 +4430,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/gekochtes-sushi.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/nigiri.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/maki.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6265,6 +6301,60 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/sushi/page/2.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/2.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/3.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/4.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/5.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/berlin/page/6.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/koln/page/2.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/hamburg/page/2.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/hamburg/page/3.html</loc>
+    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/burger/page/2.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6367,36 +6457,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/2.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/3.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/4.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/5.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/berlin/page/6.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/vegan/page/2.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6421,25 +6481,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/sushi/page/2.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/japanisch/page/2.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/koln/page/2.html</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/hamburg/page/2.html</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
