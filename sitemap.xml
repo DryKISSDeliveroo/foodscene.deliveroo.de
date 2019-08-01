@@ -769,6 +769,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/esskultur/biere-zum-essen.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/esskultur/panini-sandwiches-fuer-mittags.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2497,6 +2503,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/tag/dinner-date.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/paarung.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/tag/bier.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/tag/burgers.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3409,12 +3433,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/tag/bier.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/tag/alkoholfrei.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3956,18 +3974,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/tag/alkohol.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/dinner-date.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/tag/paarung.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6391,6 +6397,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/esskultur.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/restaurants.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6403,12 +6415,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/esskultur.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/food-trends.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6416,6 +6422,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/aktionen.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/natalie-toufexis.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6440,12 +6452,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/deliveroo.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/natalie-toufexis.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6973,30 +6979,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.de/restaurants/page/2.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/restaurants/page/3.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/restaurants/page/4.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/rezepte/page/2.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.de/esskultur/page/2.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7153,6 +7135,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/page/2.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/page/3.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/restaurants/page/4.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/rezepte/page/2.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.de/food-trends/page/2.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7172,6 +7178,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/aktionen/page/2.html</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.de/natalie-toufexis/page/2.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7208,12 +7220,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.de/deliveroo/page/6.html</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.de/natalie-toufexis/page/2.html</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
